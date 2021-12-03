@@ -9,4 +9,4 @@ privado - Sólo la clase padre puede acceder a la propiedad. No se puede heredar
 
 6.-
 
-Para acceder al despliegue en el remoto hay que acceder a esta URL :
+Para acceder al despliegue en el remoto hay que acceder a esta URL : http://psegovia.ddns.net/dwes_2021-Pauborjamoll/
